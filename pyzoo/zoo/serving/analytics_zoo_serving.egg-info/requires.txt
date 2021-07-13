@@ -1,0 +1,5 @@
+redis
+pyyaml
+httpx
+pyarrow
+opencv-python
